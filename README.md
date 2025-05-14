@@ -47,7 +47,7 @@ README.md                        # Project documentation
 | `EC2_SSH_KEY`     | Your **private SSH key** (`.pem` content) to connect to the EC2 instance |
 | `HOST_DNS`        | Public DNS of your EC2 instance (e.g., `ec2-xx-xxx.compute.amazonaws.com`)|
 | `USERNAME`        | Username for EC2 (e.g., `ubuntu`)                                         |
-| `TARGET_DIR`      | The target directory on your EC2 instance (e.g., `/home/ubuntu/resume`)   |
+| `TARGET_DIR`      | The target directory on your EC2 instance (e.g., `/home`)   |
 
 ---
 
