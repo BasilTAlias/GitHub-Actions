@@ -144,6 +144,14 @@ http://ec2-xx-xxx-xxx-xxx.us-east-1.compute.amazonaws.com
 
 ---
 
+📝 Medium Article
+I also wrote a Medium article that walks through this project step-by-step:
+
+Title: How I Hosted My Resume on AWS EC2 with GitHub Actions (CI/CD Made Simple) 
+Link: https://medium.com/@basiltaliaz/how-i-hosted-my-resume-on-aws-ec2-with-github-actions-ci-cd-made-simple-fd00d62fb578
+
+---
+
 ## 📽️ Credits
 
 This project was inspired by the [YouTube tutorial](https://www.youtube.com/watch?v=YBjrZZMXNe8)  
